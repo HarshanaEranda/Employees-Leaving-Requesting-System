@@ -1,0 +1,26 @@
+body{
+   background-color: #ecf0f9;
+}
+
+
+.login{
+    margin-top: 0px;
+    border-color: #0a53be;
+    border-width: 40px;
+    /*background-color: #0a53be;*/
+    background-color:  #ecf0f9;
+    mso-border-shadow: yes;
+    padding-top: 50px;
+
+
+}
+.login h3{
+    text-align: center;
+}
+
+.login form{
+    height: 450px;
+    padding-top: 70px;
+
+}
+
