@@ -19,21 +19,21 @@
 <div class="shadow p-3 mb-5  rounded" >
     <nav class="navbar navbar-expand-lg bg-light ">
         <div class="container-fluid ">
-<!--            <a class="navbar-brand" href="#">Navbar scroll</a>-->
+
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
             <div class="collapse navbar-collapse justify-content-end " id="navbarScroll" style="padding-top: 8px;">
-<!--                <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">-->
+
                 <ul class="nav nav-pills mb-3 " id="pills-tab" role="tablist">
                     <li class="nav-item">
                         <a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Home</a>
-<!--                        <a class="nav-link active" id="pills-home-tab"  aria-current="page" href="#pills-home">Home</a>-->
+
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Sign In</a>
-<!--                        <a class="nav-link" id="pills-profile-tab" href="#pills-profile" aria-selected="false">Sign In</a>-->
+
                     </li>
 
                 </ul>
@@ -41,25 +41,6 @@
             </div>
         </div>
     </nav>
-<!--    <nav class="navbar navbar-expand-lg bg-gradient" >-->
-<!--        <div class="container-fluid">-->
-<!--            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">-->
-<!--                <span class="navbar-toggler-icon"></span>-->
-<!--            </button>-->
-<!--            <br><br><br>-->
-<!--            <div class="collapse navbar-collapse" id="navbarTogglerDemo01">-->
-<!--                <ul class="nav nav-pills mb-3 " id="pills-tab" role="tablist">-->
-<!--                    <li class="nav-item ">-->
-<!--                        <a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Home</a>-->
-<!--                    </li>-->
-<!---->
-<!--                    <li class="nav-item">-->
-<!--                        <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Sign In</a>-->
-<!--                    </li>-->
-<!--                </ul>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </nav>-->
 </div>
 <!--==============================================================-->
 
